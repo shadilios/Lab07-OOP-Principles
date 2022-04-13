@@ -13,8 +13,12 @@ This project represent an animal class that inherits to mulitple subclasses that
 
 An interface is a class that we can't define functionality in, and we inherit it to classes we want to force them to inherit from.
 
+<br><hr><br>
+
 ### My Interfaces
 
 My interfaces are ICanRun, ICanFly, ICanSwim.  
 I inherit those Interfaces to classes I know that will use this functionality as a main method of moving.
 Exmaple: I inherit the ICanSwim interface to each Shark, Dolphin, because I know they will swim and it will let me print their Swimming speed.
+
+<br><hr><br>
