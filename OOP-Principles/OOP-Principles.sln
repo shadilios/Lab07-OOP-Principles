@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Principles", "OOP-Principles.csproj", "{85A1E4BB-A6E0-4A00-93DC-E159C32D05FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-OOP-Principles", "..\Test-OOP-Principles\Test-OOP-Principles.csproj", "{3700D4B5-DB83-42CC-B9FA-BDDADED6ADA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85A1E4BB-A6E0-4A00-93DC-E159C32D05FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85A1E4BB-A6E0-4A00-93DC-E159C32D05FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85A1E4BB-A6E0-4A00-93DC-E159C32D05FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85A1E4BB-A6E0-4A00-93DC-E159C32D05FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3700D4B5-DB83-42CC-B9FA-BDDADED6ADA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3700D4B5-DB83-42CC-B9FA-BDDADED6ADA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3700D4B5-DB83-42CC-B9FA-BDDADED6ADA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3700D4B5-DB83-42CC-B9FA-BDDADED6ADA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9085DCC-2CA1-427E-B6B4-1B2D64D134F7}
+	EndGlobalSection
+EndGlobal
